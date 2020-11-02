@@ -19,7 +19,7 @@ FLANNEL/ensemble_step1.py for 5 base-modeler learning [InceptionV3, Vgg19_bn, Re
 FLANNEL/ensemble_step2_ensemble_learning.py
 
 
-## Citation
+## Codes for
 @misc{ 
       
       title={FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection}, 
