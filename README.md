@@ -20,11 +20,11 @@ FLANNEL/ensemble_step2_ensemble_learning.py
 
 
 
-@misc{qiao2020flannel,
-      title={FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection}, 
-      author={Zhi Qiao and Austin Bae and Lucas M. Glass and Cao Xiao and Jimeng Sun},
-      year={2020},
-      eprint={2010.16039},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@misc{qiao2020flannel, \n
+      title={FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection},  \n
+      author={Zhi Qiao and Austin Bae and Lucas M. Glass and Cao Xiao and Jimeng Sun}, \n
+      year={2020}, \n
+      eprint={2010.16039}, \n
+      archivePrefix={arXiv}, \n
+      primaryClass={eess.IV} \n
 }
