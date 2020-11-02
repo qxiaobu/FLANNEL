@@ -12,8 +12,19 @@
 ## Model Training
 ### Base-modeler Learning
 FLANNEL/ensemble_step1.py for 5 base-modeler learning [InceptionV3, Vgg19_bn, ResNeXt101, Resnet152, Densenet161]
+
 (E.g. python ensemble_step1.py --arch InceptionV3)
 
 ### ensemble-model Learning
 FLANNEL/ensemble_step2_ensemble_learning.py
 
+
+
+@misc{qiao2020flannel,
+      title={FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection}, 
+      author={Zhi Qiao and Austin Bae and Lucas M. Glass and Cao Xiao and Jimeng Sun},
+      year={2020},
+      eprint={2010.16039},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
